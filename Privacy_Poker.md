@@ -21,10 +21,12 @@ We need to prepare $(B+1) \times A$ poker into $B+1$ groups, $A$ in each group, 
 
 #### Basket
 
-
+We need 7 baskets, there are labels on each basket, which can be downloaded in the appendix and you can print them on A4 paper.
 
 ## Process
 
 ## Conclusion
 
 ## Appendix
+
+[Poker File]
