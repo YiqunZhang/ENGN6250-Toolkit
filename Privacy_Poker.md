@@ -8,6 +8,7 @@
 
 - All developers, product managers and planners. They will learn about the user's understanding and requirements for privacy in this game.
 - Some volunteer users, Recommend no less than 10 people. They will express their understanding and request for privacy in the game.
+- A host
 
 ### Game Kit
 
@@ -24,6 +25,8 @@ We need to prepare $(B+1) \times A$ poker into $B+1$ groups, $A$ in each group, 
 We need 7 baskets, there are labels on each basket, which can be downloaded in the appendix and you can print them on A4 paper.
 
 ## Process
+
+
 
 ## Conclusion
 
