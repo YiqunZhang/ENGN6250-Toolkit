@@ -26,7 +26,8 @@ We need 7 baskets, there are labels on each basket, which can be downloaded in t
 
 ## Process
 
-
+1. 主持人将志愿用户和开发团队分开
+2. Put the baskets with `Necessary Public`, `Necessary Non-public`, `Unnecessary Non-public` and `Unnecessary Non-public` in front of the development team. Put the baskets with `Cannot be used`, `Can be used Non-public` and `Can be used Public` in front of volunteer users.
 
 ## Conclusion
 
