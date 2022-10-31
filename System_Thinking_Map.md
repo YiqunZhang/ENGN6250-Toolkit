@@ -1,7 +1,13 @@
 # System Thinking Map
 ## Introduction
+System Thinking Map is a team game that helps engineers think and analyze problems in a more comprehensive and systematic way. By brainstorming and refining the system map, team members build up system thinking during the game and gain a more comprehensive and detailed understanding of the key actors involved in the project and the interactions and connections between them. The game also allows each member to learn new ideas from the other members. In addition, the game can also improve everyone's teamwork ability, establish the consciousness of actively participating in teamwork, improve communication skills, and improve the skills of presenting their ideas. The relaxed atmosphere of the game can encourage members who are usually reluctant to show their ideas to express them bravely and encourage everyone to debate to realize the collision of thoughts.
+
+Also, System Thinking Map game is a simple and easy to implement game. Both the required props and the game format are very convenient, so such activities can be organized frequently. When you need to carry out preliminary analysis of the team's ongoing project, you can use this game to make everyone have a more systematic and comprehensive understanding of the project, and also to lay the foundation for the subsequent analysis of the relevant stakeholders and the generalization of requirements. And when you have free time, you can also organize such games regularly to improve the ability of everyone to think holistically, and to allow members to constantly find their own problems with the system thinking, so that they can correct them in the future work.
 
 ## Preparation
+### Participants
+### Game Kit
+<img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/Color%20Magnets.jpg?raw=true"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/whiteboard1.jpg?raw=true"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/color%20marker.jpg?raw=true"/>
 
 ## Game Rule
 ### **1. System Entities Distribution**: 
