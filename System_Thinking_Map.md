@@ -6,12 +6,15 @@ Also, System Thinking Map game is a simple and easy to implement game. Both the 
 
 ## Preparation
 ### Participants
+* If this activity is performed for a specific project, then it requires the participation of all project-related personnel (including developers, product managers, etc.) to jointly add to the system map.
+* If it is a regular game training, then anyone who is interested in the topic or who thinks himself or herself need to improve the system thinking skills can participate.
+* It is recommended that more than five people participate in this game (if the number of participants is too small, it may not be too effective).
 
 ### Game Kit
-* **a large whiteboard** which can provide enough space for drawing the system map.
-* **more than 400 long colorful magnet stickers** which are enough to label all the entities.
-* **more than 10 color markers** which can distinguish between different types of interactions between entities. 
-* **a notebook** to record each modification made by the participants
+* **A large whiteboard** which can provide enough space for drawing the system map.
+* **More than 400 long colorful magnet stickers** which are enough to label all the entities.
+* **More than 10 color markers** which can distinguish between different types of interactions between entities. 
+* **A notebook** to record each modification made by the participants.
 
 <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/whiteboard1.jpg?raw=true" alt="whiteboard"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/Color%20Magnets.jpg?raw=true" alt="colorful magnet stickers"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/color%20marker.jpg?raw=true" alt="colorful markers"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/notebook2.jpg?raw=true" alt="notebook"/> 
 
