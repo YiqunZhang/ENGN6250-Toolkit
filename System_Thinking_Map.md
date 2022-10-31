@@ -23,5 +23,5 @@ In this stage, everyone is invited to share their opinions about the game and an
 4.	What can you learn from this activity about the system thinking?
 5.	What will you do system thinking in the future work?
 6.	Which partner do the best in this activity and how can you learn from him or her?  
-**Award time(Optional):**
-If someone is considered as the one who do the best in this activity, some award like gifts or cash can be added to encourage motivation of participation.
+**Award (Optional):**
+If someone is considered as the one who do the best in this activity after all participants' sharing, some award like gifts or cash can be added to encourage.
