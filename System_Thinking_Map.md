@@ -6,7 +6,13 @@ Also, System Thinking Map game is a simple and easy to implement game. Both the 
 
 ## Preparation
 ### Participants
+
 ### Game Kit
+* **a large whiteboard** which can provide enough space for drawing the system map.
+* **more than 400 color magnet stickers** which are enough to label all the entities.
+* **more than 10 color markers** which can distinguish between different types of interactions between entities. 
+* **a notebook** to record each modification made by the participants
+
 <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/Color%20Magnets.jpg?raw=true"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/whiteboard1.jpg?raw=true"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/color%20marker.jpg?raw=true"/>
 
 ## Game Rule
