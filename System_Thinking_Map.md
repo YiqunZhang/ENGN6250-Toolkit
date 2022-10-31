@@ -19,9 +19,10 @@ After all brainstorm and discussion, a highly completed system thinking map appe
 In this stage, everyone is invited to share their opinions about the game and answer some questions. The questions can be presented on the screen and there is 15 minutes thinking time for everyone consider the questions following:
 1.	If there is some dropping records and comments made by you on the notebook, explain why making the decisions.
 2.	What systems or entities are the most important in this topic, and what are the least important and why?
-3.	Do you think some connection or systems can be improved in current map? Why?
-4.	What can you learn from this activity about the system thinking?
-5.	What will you do system thinking in the future work?
-6.	Which partner do the best in this activity and how can you learn from him or her?  
+3.	How many kinds of connetions do you think in this map? Name them and explain why.
+4.	Do you think some connection or systems can be improved in current map? Why?
+5.	What can you learn from this activity about the system thinking?
+6.	What will you do system thinking in the future work?
+7.	Which partner do the best in this activity and how can you learn from him or her?  
 ### **Award (Optional):**
 If someone is considered as the one who do the best in this activity after all participants' sharing, some award like gifts or cash can be added to encourage.
