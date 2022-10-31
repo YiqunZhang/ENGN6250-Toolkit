@@ -22,12 +22,13 @@ We need to prepare $(B+1) \times A$ poker into $B+1$ groups, $A$ in each group, 
 
 #### Basket
 
-We need 7 baskets, there are labels on each basket, which can be downloaded in the appendix and you can print them on A4 paper.
+We need 7 baskets, there are labels on each basket. The label is `Necessary Public`, `Necessary Non-public`, `Unnecessary Non-public`, `Unnecessary Non-public`, `Cannot be used`, `Can be used Non-public` and `Can be used Public`. The label can be downloaded in the appendix and you can print them on A4 paper.
 
 ## Process
 
-1. 主持人将志愿用户和开发团队分开
+1. Host separates volunteer users from development team
 2. Put the baskets with `Necessary Public`, `Necessary Non-public`, `Unnecessary Non-public` and `Unnecessary Non-public` in front of the development team. Put the baskets with `Cannot be used`, `Can be used Non-public` and `Can be used Public` in front of volunteer users.
+3. 
 
 ## Conclusion
 
