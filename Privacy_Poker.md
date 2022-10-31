@@ -22,12 +22,12 @@ We need to prepare $(B+1) \times A$ poker into $B+1$ groups, $A$ in each group, 
 
 #### Basket
 
-We need 7 baskets, there are labels on each basket. The label is `Necessary Public`, `Necessary Non-public`, `Unnecessary Non-public`, `Unnecessary Non-public`, `Cannot be used`, `Can be used Non-public` and `Can be used Public`. The label can be downloaded in the appendix and you can print them on A4 paper.
+We need 7 baskets, there are labels on each basket. The label is `Necessary Public`, `Necessary Public`, `Unnecessary Non-public`, `Unnecessary Non-public`, `Cannot be used`, `Can be used Non-public` and `Can be used Public`. The label can be downloaded in the appendix and you can print them on A4 paper.
 
 ## Process
 
 1. Host separates volunteer users from development team
-2. Put the baskets with `Necessary Public`, `Necessary Non-public`, `Unnecessary public` and `Unnecessary Non-public` in front of the development team. Put the baskets with `Cannot be used`, `Can be used Non-public` and `Can be used Public` in front of volunteer users.
+2. Put the baskets with `Necessary Public`, `Necessary Non-public`, `Unnecessary Public` and `Unnecessary Non-public` in front of the development team. Put the baskets with `Cannot be used`, `Can be used Non-public` and `Can be used Public` in front of volunteer users.
 3. The host distributes poker. The development team gets a set of poker, and each volunteer user gets a set of poker.
 4. The development team puts poker into its basket based on different privacy data.
   - Necessary: The software must use this private data, otherwise the software will not be available.
@@ -35,11 +35,13 @@ We need 7 baskets, there are labels on each basket. The label is `Necessary Publ
   - Public: This privacy data will be made public.
   - Non-public: This privacy data will not be made public. Only this user and the software development team can know.
 5. The volunteer users puts poker into its basket based on different privacy data.
-  - 
-7. The host counted the poker in the basket in front of the development team and the poker in the basket in front of volunteer users.
-9. Statistics of private data with inconsistent understanding between the two sides.
-10. For privacy data with inconsistent understandings, such as developers who need to disclose but users do not want to disclose, please explain the reason.
-11. Summarize.
+  - Cannot be used: I don't want software to get this privacy data.
+  - Can be used Public: I would like the software to get this private data, and it can be made public.
+  - Can be used Non-public: I would like the software to get this private data, and it can not be made public.
+6. The host counted the poker in the basket in front of the development team and the poker in the basket in front of volunteer users.
+7. Statistics of private data with inconsistent understanding between the two sides.
+8. For privacy data with inconsistent understandings, such as developers who need to disclose but users do not want to disclose, please explain the reason.
+9. Summarize.
 
 ## Conclusion
 
