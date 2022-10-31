@@ -9,11 +9,11 @@ Also, System Thinking Map game is a simple and easy to implement game. Both the 
 
 ### Game Kit
 * **a large whiteboard** which can provide enough space for drawing the system map.
-* **more than 400 color magnet stickers** which are enough to label all the entities.
+* **more than 400 long colorful magnet stickers** which are enough to label all the entities.
 * **more than 10 color markers** which can distinguish between different types of interactions between entities. 
 * **a notebook** to record each modification made by the participants
 
-<img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/Color%20Magnets.jpg?raw=true"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/whiteboard1.jpg?raw=true"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/color%20marker.jpg?raw=true"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/notebook.jpg?raw=true"/> 
+<img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/Color%20Magnets.jpg?raw=true" alt="colorful magnet stickers"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/whiteboard1.jpg?raw=true" alt="whiteboard"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/color%20marker.jpg?raw=true" alt="colorful markers"/> <img width="150" height="150" src="https://github.com/YiqunZhang/ENGN6250-Toolkit/blob/main/img/notebook.jpg?raw=true" alt="notebook"/> 
 
 ## Game Rule
 ### **1. System Entities Distribution**: 
@@ -38,3 +38,9 @@ In this stage, everyone is invited to share their opinions about the game and an
 7.	Which partner do the best in this activity and how can you learn from him or her?  
 ### **Award (Optional):**
 If someone is considered as the one who do the best in this activity after all participants' sharing, some award like gifts or cash can be added to encourage.
+
+## Reference
+1. whiteboard picture from https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fwww.shungsin.com.tw%2F2-5.html&psig=AOvVaw0hG8dQoSip6RyhR9kPORUq&ust=1667291017307000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNiC4piFivsCFQAAAAAdAAAAABAE
+2. long colorful magnet stickers picture from https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fwww.magruba.com.tw%2F%25E5%25BD%25A9%25E8%2589%25B2%25E7%25A3%2581%25E9%2590%25B5%25E7%2589%2587%2F&psig=AOvVaw30OHAulT4AprN5Op8gt7gm&ust=1667290689824000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCv1fyDivsCFQAAAAAdAAAAABAE
+3. colorful markers picture from https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fwww.ruten.com.tw%2Fitem%2Fshow%3F22019527545495&psig=AOvVaw1F_QRUVwdvyoWnDqNmppyq&ust=1667291087714000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNjasrqFivsCFQAAAAAdAAAAABAE
+4. notebook picture from https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fstocksnap.io%2Fsearch%2Fpen%2520paper&psig=AOvVaw17h81d4FIiv6oXD2wOHdXI&ust=1667338735925000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPDE5_q2i_sCFQAAAAAdAAAAABAS
