@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Privacy poke is a group game based on developers and users. In this team activity, the facilitator does the moderating. The developer gives the user a brief background knowledge introduction and lets the developer choose the information to collect. It takes the form of a simple game where a number of choices are made by picking different small cards in different baskets. This team game introduces privacy and security, data storage and protection. The game offers a simple way to collect and obtain results by drawing pieces of paper to simulate the user's psychology. Participants of the game can also comment and discuss by taking part in the game, seeing, and evaluating the strengths and weaknesses of the developer's project from their point of view.
+
 ## Preparation
 
 ### Participants
@@ -44,6 +46,8 @@ We need 7 baskets, there are labels on each basket. The label is `Necessary Publ
 9. Summarize.
 
 ## Conclusion
+
+In general, given the context of tracking the corona virus, the project uses poker, a tool known to all, to define the different roles of stakeholders and privacy, government and the general public through the operation and explanation of the development team and the process of starting a game for each person. To observe and capture the user's understanding and requirements for privacy. The logic of the game was constructed using different baskets containing different nature of notes. At the same time, the behaviour of each participant is captured. At the end a framework is proposed that asks all developers and users to think deeply about the advantages and disadvantages of the project, and through analysis and understanding to be able to address and upgrade the current project. Finally, Privacy Poker is a group game that helps developers to understand what users think, allowing project teams and researchers to collaborate with users to get the data that developers want through the game process, to analyse it and draw conclusions, and ultimately to improve and innovate in order to optimise a project that will satisfy the majority of people.
 
 ## Appendix
 
