@@ -29,4 +29,6 @@ We need 7 baskets, there are labels on each basket, which can be downloaded in t
 
 ## Appendix
 
-[Poker File]
+[Poker File](appendix/Poker.pdf)
+
+[Label File](appendix/Label.pdf)
