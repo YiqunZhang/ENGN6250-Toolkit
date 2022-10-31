@@ -16,3 +16,11 @@ In this stage, every participant can stand in the front of the white board toget
 After all brainstorm and discussion, a highly completed system thinking map appear on the white board. This is a work done together and everyone can make comments about the map and record the comments on the notebook.
 
 ## Discussion and Review
+In this stage, everyone is invited to share their opinions about the game and answer some questions. The questions can be presented on the screen and there is 15 minutes thinking time for everyone consider the questions following:
+1.	If there is some dropping records and comments made by you on the notebook, explain why making the decisions.
+2.	What systems or entities are the most important in this topic, and what are the least important and why?
+3.	Do you think some connection or systems can be improved in current map? Why?
+4.	What can you learn from this activity about the system thinking?
+5.	What will you do system thinking in the future work?
+6.	Which partner do the best in this activity and how can you learn from him or her?
+(Optional)If someone is considered as the one who do the best in this activity, some award like gifts or cash can be added to encourage motivation of participation.
