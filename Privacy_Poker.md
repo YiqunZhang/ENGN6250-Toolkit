@@ -27,8 +27,18 @@ We need 7 baskets, there are labels on each basket. The label is `Necessary Publ
 ## Process
 
 1. Host separates volunteer users from development team
-2. Put the baskets with `Necessary Public`, `Necessary Non-public`, `Unnecessary Non-public` and `Unnecessary Non-public` in front of the development team. Put the baskets with `Cannot be used`, `Can be used Non-public` and `Can be used Public` in front of volunteer users.
-3. 
+2. Put the baskets with `Necessary Public`, `Necessary Non-public`, `Unnecessary public` and `Unnecessary Non-public` in front of the development team. Put the baskets with `Cannot be used`, `Can be used Non-public` and `Can be used Public` in front of volunteer users.
+3. The host distributes poker. The development team gets a set of poker, and each volunteer user gets a set of poker.
+4. The development team puts poker into its basket based on different privacy data.
+  - Necessary: The software must use this private data, otherwise the software will not be available.
+  - Unnecessary:
+  - Public:
+  - Non-public:
+6. The volunteer users puts poker into its basket based on different privacy data.
+7. The host counted the poker in the basket in front of the development team and the poker in the basket in front of volunteer users.
+8. Statistics of private data with inconsistent understanding between the two sides.
+9. For privacy data with inconsistent understandings, such as developers who need to disclose but users do not want to disclose, please explain the reason.
+10. Summarize.
 
 ## Conclusion
 
